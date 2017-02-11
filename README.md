@@ -13,7 +13,7 @@ Using NPM
 npm install -g express-gen
 ```
 
-## Running
+## Usage
 
 1. Create a folder that has the same name as the app that you want to generate.
 2. Navigate to the folder in the terminal and run the following command
