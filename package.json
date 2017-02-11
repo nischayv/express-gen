@@ -1,50 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "express-gen",
-        "scope": null,
-        "escapedName": "express-gen",
-        "name": "express-gen",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "C:\\Users\\Nischay\\IdeaProjects\\express-gen"
-    ]
-  ],
-  "_from": "express-gen@latest",
-  "_id": "express-gen@0.0.1",
-  "_inCache": true,
-  "_location": "/express-gen",
-  "_nodeVersion": "6.9.1",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/express-gen-0.0.1.tgz_1486714244862_0.025502167642116547"
-  },
-  "_npmUser": {
-    "name": "nischayv",
-    "email": "nischay.v@gmail.com"
-  },
-  "_npmVersion": "3.10.8",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "express-gen",
-    "scope": null,
-    "escapedName": "express-gen",
-    "name": "express-gen",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/express-gen/-/express-gen-0.0.1.tgz",
-  "_shasum": "e09b6972d3efe468b8b168f1495dfd69c10a4aae",
-  "_shrinkwrap": null,
-  "_spec": "express-gen",
-  "_where": "C:\\Users\\Nischay\\IdeaProjects\\express-gen",
   "author": {
     "name": "Nischay Venkatram",
     "email": "nischay.v@gmail.com"
@@ -91,7 +45,6 @@
   "name": "express-gen",
   "optionalDependencies": {},
   "preferGlobal": true,
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nischayv/express-gen.git"
