@@ -23,12 +23,6 @@
     "eslint-config-airbnb-base": "^11.1.0",
     "eslint-plugin-import": "^2.2.0"
   },
-  "directories": {},
-  "dist": {
-    "shasum": "e09b6972d3efe468b8b168f1495dfd69c10a4aae",
-    "tarball": "https://registry.npmjs.org/express-gen/-/express-gen-0.0.1.tgz"
-  },
-  "gitHead": "37841215b58589735626dae856d3a5bfac47a20e",
   "homepage": "https://github.com/nischayv/express-gen#readme",
   "keywords": [
     "express",
@@ -43,7 +37,6 @@
     }
   ],
   "name": "express-gen",
-  "optionalDependencies": {},
   "preferGlobal": true,
   "repository": {
     "type": "git",
