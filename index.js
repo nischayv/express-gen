@@ -16,11 +16,11 @@ function directoryExists(filePath) {
  * Get current path
  */
 function getCurrentDirectory() {
-  return process.cwd;
+  return process.cwd();
 }
 
 /**
- * Get current path
+ * Get directory name
  */
 function getBaseDirectory() {
   return path.basename(process.cwd());
