@@ -4,7 +4,7 @@
 
 > Generate a simple express app
 
-A really simple express app generator
+A really simple and clean express app generator
 
 ## Install
 
