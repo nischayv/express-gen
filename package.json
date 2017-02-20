@@ -42,5 +42,8 @@
     "type": "git",
     "url": "git+https://github.com/nischayv/express-gen.git"
   },
+  "engines": {
+    "node": ">=5"
+  },
   "version": "0.0.1"
 }
