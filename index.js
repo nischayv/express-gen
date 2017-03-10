@@ -6,21 +6,6 @@ const chalk = require('chalk');
 const clear = require('clear');
 const figlet = require('figlet');
 
-function directoryExists(filePath) {
-  try {
-    return fs.statSync(filePath).isDirectory();
-  } catch (err) {
-    return false;
-  }
-}
-
-/**
- * Get current path
- */
-function getCurrentDirectory() {
-  return process.cwd();
-}
-
 /**
  * Get directory name
  */
@@ -32,7 +17,7 @@ function getBaseDirectory() {
  * Load template file
  */
 function loadTemplate(name) {
-  return fs.readFileSync(path.join(getCurrentDirectory(), '/', 'templates', name), 'utf-8');
+  return fs.readFileSync(path.join(__dirname, '/', 'templates', name), 'utf-8');
 }
 
 /**
