@@ -4,7 +4,7 @@
     "email": "nischay.v@gmail.com"
   },
   "bin": {
-    "express-gen": "index.js"
+    "express-gen": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/nischayv/express-gen/issues"
@@ -44,5 +44,5 @@
   "engines": {
     "node": ">=5"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
