@@ -3,9 +3,6 @@
     "name": "Nischay Venkatram",
     "email": "nischay.v@gmail.com"
   },
-  "bin": {
-    "express-gen": "./index.js"
-  },
   "bugs": {
     "url": "https://github.com/nischayv/express-gen/issues"
   },
@@ -37,6 +34,9 @@
   ],
   "name": "express-gen",
   "preferGlobal": true,
+  "bin": {
+    "express-gen": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nischayv/express-gen.git"
