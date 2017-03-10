@@ -69,7 +69,7 @@ const appName = getBaseDirectory();
 
 const pkg = {
   name: appName,
-  version: '0.0.0',
+  version: '0.0.1',
   private: true,
   scripts: { start: 'node server' },
   dependencies: {
