@@ -33,16 +33,17 @@
     }
   ],
   "name": "express-gen",
+  "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "express-gen": "node ./index.js"
+    "express-gen": "./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nischayv/express-gen.git"
   },
   "engines": {
-    "node": ">=5"
+    "node": ">= 5"
   },
-  "version": "1.0.5"
+  "version": "1.0.7"
 }
