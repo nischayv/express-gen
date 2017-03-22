@@ -1,6 +1,7 @@
 # express-gen
 
 [![Build Status](https://travis-ci.org/nischayv/express-gen.svg?branch=master)](https://travis-ci.org/nischayv/express-gen)
+[![npm version](https://badge.fury.io/js/express-gen.svg)](https://badge.fury.io/js/express-gen)
 
 > Generate a simple express app
 
